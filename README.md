@@ -19,7 +19,6 @@ In the project directory (MunchkinMenu), run: npm start
 To start up the back and front end of the application.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser, and test it out! You can try creating an account, making a recipe, or clicking a recipe and commenting on/rating it.
 
-To view the the different tables and their normalization, see our [Project Report](https://docs.google.com/presentation/d/1xRaPS3pTx0bKNlxLpdGZACH39N6bx_QxXbmUECpMhsk/edit#slide=id.g1e2336377bb_1_0).
 
 # Enjoy! :)
 
